@@ -18,7 +18,6 @@ class B {
 };
 
 void B::MB1() {
-    
     cout<<"MB1"<<endl;
 };
 

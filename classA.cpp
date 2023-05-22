@@ -18,6 +18,7 @@ class A {
 };
 
 void A::MA1() {
+    
     cout<<"MA1"<<endl;
 };
 

@@ -22,9 +22,11 @@ void D::MD1() {
 };
 
 void D::MD2() {
+    
     cout<<"MD2"<<endl;
 };
 
 void D::MD3() {
+
     cout<<"MD3"<<endl;
 };

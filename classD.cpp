@@ -27,5 +27,6 @@ void D::MD2() {
 };
 
 void D::MD4() {
+    
     cout<<"MD4"<<endl;  
 };

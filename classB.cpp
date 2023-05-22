@@ -14,6 +14,7 @@ class B {
 
         void MB1();
         void MB2();
+        void MB3();
 };
 
 void B::MB1() {
@@ -22,4 +23,8 @@ void B::MB1() {
 
 void B::MB2() {
     cout<<"MB2"<<endl;
+};
+
+void B::MB3() {
+    cout<<"MB3"<<endl;
 };

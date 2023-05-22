@@ -17,6 +17,7 @@ class D {
 };
 
 void D::MD1() {
+    
     cout<<"MD1"<<endl;
 };
 

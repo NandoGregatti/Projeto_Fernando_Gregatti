@@ -23,6 +23,7 @@ void A::MA1() {
 };
 
 void A::MA2() {
+    
     cout<<"MA2"<<endl;
 };
 

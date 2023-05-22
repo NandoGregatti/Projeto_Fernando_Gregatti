@@ -18,6 +18,7 @@ class C {
 };
 
 void C::MC1() {
+    
     cout<<"MC1"<<endl;
 };
 

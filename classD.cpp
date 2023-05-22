@@ -16,8 +16,7 @@ class D {
         void MD2();
 };
 
-void D::MD1() {
-    
+void D::MD1() { 
     cout<<"MD1"<<endl;
 };
 
